@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(0.25turn, lightblue, white, pink);
+    text-align: center;
+}
+
+.head{
+    padding-top: 15vh;
+  
+}
+
+.form{
+    line-height: 5vh;
+    display: inline-block;
+    border: 2px solid black;
+    background-color: white;
+    width: 32vw;
+    background-image: url(/images/imbg.jpg);
+    border-radius: 2%;
+}
